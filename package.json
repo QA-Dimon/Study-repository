@@ -1,0 +1,21 @@
+{
+  "name": "jsas",
+  "version": "0.0.1",
+  "description": "JS Automation study project (IT Academy)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JS",
+    "Automation",
+    "study",
+    "IT",
+    "academy"
+  ],
+  "author": "Rogozik Dmitry",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
